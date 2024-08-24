@@ -1,0 +1,3 @@
+Gestión de Tareas. 
+
+En este proyecto desarrollé una aplicación de gestión de tareas en Python. La aplicación permite crear tareas, marcarlas como completadas o pendientes, y mostrarlas en una tabla. Como se puede observar, la idea fue que permitiera crear tareas añadiendo un título, una descripción y seleccionando si están pendientes o completadas. Las tareas se pueden marcar como completadas o volver a pendientes si es necesario. La lista de tareas se muestra en una tabla con opciones para buscar y filtrar. Y su idea era mostrar una buena interfaz gráfica, utilizando Bootstrap, lo que hace que el diseño se vea ordenado y funcione bien.
